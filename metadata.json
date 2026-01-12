@@ -1,0 +1,10 @@
+{
+  "name": "wildai@GeminiOS",
+  "description": "a Quantum Simulating computer with a UI that is generated dynamically from interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "prompt": ""
+}
